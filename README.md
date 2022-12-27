@@ -2,7 +2,6 @@
 
 **Keyboard centered & simplistic with side bookmark panel!**
 
-<img src='example.png' alt='My Firefox setup' align='right' width='400px'/>
 
 Addons i use along with Firefox:
 
