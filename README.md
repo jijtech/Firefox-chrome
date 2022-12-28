@@ -33,11 +33,11 @@ Addons i use along with Firefox:
 
    ▴ **Darkmode** -> [Midnight Lizard](https://addons.mozilla.org/en-US/firefox/addon/midnight-lizard-quantum/)
 
-   ▴ **Goodies** -> [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
+   ▴ **Anti Fingerprint** -> [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
-   ▴ **Goodies** -> [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
+   ▴ **Tracker Blocker** -> [Privacy Badger](https://addons.mozilla.org/en-US/firefox/addon/privacy-badger17/)
 
-   ▴ **Goodies** -> [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
+   ▴ **clean links** -> [ClearURLS](https://addons.mozilla.org/en-US/firefox/addon/clearurls/)
 
 
 
