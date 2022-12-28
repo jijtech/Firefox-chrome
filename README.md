@@ -24,6 +24,8 @@ Addons i use along with Firefox:
    ▴ **Container** -> [Facebook container](https://addons.mozilla.org/en-US/firefox/addon/facebook-container/)
 
    ▴ **Yt Utility** -> [SponserBlock](https://addons.mozilla.org/en-US/firefox/addon/sponsorblock/)
+   
+   ▴ **Yt Utility** -> [youtube-nonstop](https://addons.mozilla.org/en-GB/firefox/addon/youtube-nonstop/)
 
    ▴ **Yt Utility** -> [enhanced-h264ify](https://addons.mozilla.org/en-US/firefox/addon/enhanced-h264ify/)
 
