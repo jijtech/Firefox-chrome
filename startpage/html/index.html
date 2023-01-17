@@ -7,14 +7,19 @@
    </head>
    <body>
 
-     <!--The banner image.-->
-     <div class="img">
-       <img src="../banner.png" />
-     </div>
-
      <!--Welcome message.-->
      <header id="main_header">
       Welcome to your <span id="startpage">startpage</span> <span id="name">jij</span> </header>
+
+      
+      </div>
+      <!--search box.-->
+      <form id="search-form" action="https://search.brave.com/search?q=">
+        <div id="search-bar-wrapper">
+         <input id="search-bar" name="q" type="text" title="Search" size="60" />
+         <button id="search-bar-btn" type="submit">Search</button>
+     </div>
+ </form>
 
       <!--The container class that contains all the tables-->
       <div class="container">
@@ -100,22 +105,36 @@
 
               </div>
           </div>
-      <!--Quote Generator-->
-      <div id="quotes">
-        <div id="quotes-container">
-          <h4 id="quote"></h4>
-          <h5 id="author"></h5>
-        </div>
+          
+          
+      <!--notes-->
+          <div class="grid">
+            <div class="box">
+                <div>
+                    <p style="float: left; margin-top: 10px">Notes</p>
+                    <a href="#" id="delete" class="right">Delete</a>
+                    <div class="right dropdown">
+                        <div class="dropdown-content" id="all"></div>
+                    </div>
+                    <a href="#" id="new" class="right">New</a>
+                </div>
+                <textarea class="box" id="notes">
+                </textarea>
+            </div>
 
-      </div>
-      <!--search box.-->
-      <form id="search-form" action="https://searx.thegpm.org/">
-        <div id="search-bar-wrapper">
-         <input id="search-bar" name="q" type="text" title="Search" />
-         <button id="search-bar-btn" type="submit">&#128270;</button>
-     </div>
- </form>
+                        <!--Quote Generator-->
+                        <div id="quotes">
+                          <div id="quotes-container">
+                            <h4 id="quote"></h4>
+                            <h5 id="author"></h5>
+                          </div>
+                  
+                               <!--The banner image.
+     <div class="img">
+      <img src="../banner.png" />
+    </div> -->
 
    <script src="../js/main.js"></script>
-   </body>
+   <script src="../js/notes.js"></script>
+  </body>
 </html>
