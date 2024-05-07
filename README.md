@@ -31,7 +31,7 @@ Addons i use along with Firefox:
 
    ▴ **Spoofer** -> [Chameleon](https://addons.mozilla.org/en-US/firefox/addon/chameleon-ext/)
 
-   ▴ **Darkmode** -> [Midnight Lizard](https://addons.mozilla.org/en-US/firefox/addon/midnight-lizard-quantum/)
+   ▴ **Darkmode** -> [Dark Reader](https://addons.mozilla.org/en-GB/firefox/addon/darkreader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
    ▴ **Anti Fingerprint** -> [CanvasBlocker](https://addons.mozilla.org/en-US/firefox/addon/canvasblocker/)
 
